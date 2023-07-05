@@ -1,1 +1,1 @@
-This is my html advanced tas,which i'm to build a web page from the scratch.
+This is my html advanced task,which i'm to build a web page from the scratch.
