@@ -1,1 +1,0 @@
-This is my html advanced task ,i am to create an amazing redame file,the task is all about creating a webpage from scratch,i will be working with the alx_html_css repository and the html_advanced directory
