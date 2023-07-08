@@ -1,9 +1,12 @@
-body{
+.works_on_smartphone{
     display:flex;
-    flex-direction:colum;
+    flex-direction:column;
+    font-family: solid red;
+    background-color: powderblue;
 }
 
 main{
+    border-style: solid black;
     display:flex;
     flex-direction:row;
     flex:auto;
@@ -12,10 +15,42 @@ main{
 article{
     flex:2;
     overflow-y:auto;
-
+    
 }
 
 aside{
     flex:1;
     overflow-y:auto;
+    background-color: aqua;
+}
+
+
+head{
+    border-style: double;
+    border-style: solid;
+}
+
+.article{
+    border:5px solid;
+    background-color: powderblue;
+}
+.header{
+    color: orangered
+}
+table, th, td{
+    border:3px solid;
+    padding: 1px;
+    
+}
+thead{
+    color: red;
+    background-color: blue;
+    padding-left: 1px;
+}
+tbody{
+    color: black;
+}
+
+.header{
+    font-family: solid red;
 }
