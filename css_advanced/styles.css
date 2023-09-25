@@ -1,0 +1,12 @@
+header {
+    background-color: purple;
+    background-image: url("img_girl.jpg");
+
+}
+
+div {
+    justify-content: flex-end;
+    margin: 0;
+    
+
+}
