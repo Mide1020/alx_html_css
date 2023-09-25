@@ -179,6 +179,13 @@
   
   /* Grid
       ============================= */
+<<<<<<< HEAD
+=======
+
+    .row{
+      display: flex;
+    }
+>>>>>>> 396aa78ba21789f33d390b29ff601bcbdafa13d5
   
   ul.row {
     margin: 0;
@@ -495,4 +502,8 @@
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> 396aa78ba21789f33d390b29ff601bcbdafa13d5
